@@ -1,0 +1,13 @@
+SampleNumber,Solvent,Compound,Concentration,PercentDMSO,Notes
+1,MeOH,Vehicle,,0.57,
+2,MeOH,SN-38,10 uM,0.39,
+3,MeOH,SN-38G,10 uM,0.57,Interrupted HPLC run
+4,MeOH,Vehicle,,5.7,Did not run on HPLC
+5,MeOH,SN-38,100 uM,3.9,
+6,MeOH,SN-38G,100 uM,5.7,
+7,LB,Vehicle,,0.57,
+8,LB,SN-38,10 uM,0.39,
+9,LB,SN-38G,10 uM,0.57,
+10,LB,Vehicle,,5.7,Did not run on HPLC
+11,LB,SN-38,100 uM,3.9,
+12,LB,SN-38G,100 uM,5.7,
