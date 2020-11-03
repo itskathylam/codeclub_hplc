@@ -11,4 +11,4 @@ For this Code Club session, I will use data from my first trial HPLC experiment 
 - Piping 
 - Regex
 
-The .Rmd file and [.html notebook](https://htmlpreview.github.io/?https://github.com/itskathylam/codeclub_hplc/blob/main/2020-09-09_HPLC_SN38G.html) (click to view the html notebook properly rendered in broswer) are both included here. 
+The .Rmd file and [.html notebook](https://htmlpreview.github.io/?https://github.com/itskathylam/codeclub_hplc/blob/main/2020-09-09_HPLC_SN38G.html) (click to view the html notebook properly rendered in broswer) are included. 
