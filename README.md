@@ -2,7 +2,7 @@
 
 2020-11-03
 
-Using data my first trial HPLC experiment, I will touch on/review/introduce:
+For this Code Club session, I will use data from my first trial HPLC experiment (!) to touch on/review/introduce:
 
 My system for experiment organization
 R notebooks/css snippet for width control
